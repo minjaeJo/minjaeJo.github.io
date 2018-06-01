@@ -1,0 +1,16 @@
+.image_logo {
+    display: inline;
+    border-radius: 20px !important;
+    width: auto;
+    height: auto;
+    max-width: 100px;
+    max-height: 30px;
+}
+.image_logo.squard {
+    border-radius: 0px !important;
+}
+.image_project {
+    width: auto;
+    height: auto;
+    max-height: 250px;
+}
