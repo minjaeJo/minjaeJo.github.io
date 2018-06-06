@@ -6,14 +6,11 @@ tags: [여행]
 excerpt: ""
 comments: true
 ---
-
 # Vietnam Archiving
 
 ## 서론
 
-서류부터 면접까지 엄청난 경쟁률을 뚫고 우리팀은 **100주년 해외탐방 프로그램 장학생**으로 선정받게 되었다.  인당 80만원씩 지원받았고 7월9일부터 7월20일까지 베트남으로 놀러가게 되었다. 그곳에서 많은 인생사진과 추억들을 가져올 생각을 하니 벌써부터 들뜬다.
-
-이번 포스터의 주제는 베트남 여행에 필요한 일정과 맛집, 준비물을 아카이빙이다.
+서류부터 면접까지 엄청난 경쟁률을 뚫고 우리팀은 **100주년 해외탐방 프로그램 장학생**으로 선정받게 되었다.  인당 80만원씩 지원받았고 7월9일부터 7월20일까지 베트남으로 놀러가게 되었다. 그곳에서 많은 인생사진과 추억들을 가져올 생각을 하니 벌써부터 들뜬다. 이번 포스터의 주제는 베트남 여행에 필요한 일정에 대한 아카이빙이다.
 
 ## 베트남 북부 (1Day ~ 4Day)
 
@@ -89,10 +86,17 @@ comments: true
 - [미케비치](https://www.google.com/maps/place/%EB%AF%B8%EC%BC%80%ED%95%B4%EB%B3%80/@16.0631436,108.2447451,17z/data=!3m1!4b1!4m5!3m4!1s0x31421785786f0875:0x5bbfa2af32fb20d9!8m2!3d16.0631385!4d108.2469338)
 - [호이안 올드타운](http://blog.naver.com/PostView.nhn?blogId=bolwang&logNo=221034479777)
 - [링엄사](https://www.google.com/maps/place/Ch%C3%B9a+Linh+%E1%BB%A8ng/@16.100508,108.2597817,14z/data=!4m8!1m2!2m1!1sLinh+Ung+Pagoda+Da+nang!3m4!1s0x314217d6957d8bad:0x9c9d513fd330e1f1!8m2!3d16.1002884!4d108.2778557)
+- 용다리
 
 #### 맛집
 
-
+- [피자 포피스](https://www.google.co.kr/maps?ie=UTF-8&q=16.0627116,108.2228855)
+- [반쎄오 바둥(베트남식 부침깨)](https://www.google.co.kr/maps?ie=UTF-8&q=16.0588398,108.2161246)
+- [Merkat](https://www.google.co.kr/maps?ie=UTF-8&q=16.0765609,108.2197718)
+- [포 비엣 끼우](https://www.google.co.kr/maps?ie=UTF-8&q=16.048428,108.246232)
+- [라 메종 1888 (링엄사 근처)](https://www.google.co.kr/maps?ie=UTF-8&q=16.1220447,108.3060413)
+- [마담칸 (호이안에 있음)](https://www.google.co.kr/maps?ie=UTF-8&q=15.8805472,108.3279283)
+- [식스 온 식스](https://www.google.co.kr/maps?ie=UTF-8&q=16.0429109,108.2447921)
 
 
 
@@ -119,14 +123,10 @@ comments: true
 
 #### 맛집
 
-맛집이 너무 많으며 일정이 오래 있는 점을 고려하여 다른 블로거의 글을 가져온다.
-
 - [호치민의 숨겨둔 나의 비밀 맛집](https://brunch.co.kr/@smile-j/7)
 - [추리고 추린 호치민 맛집](https://triple.guide/regions/00aab92a-b38a-42b5-bad7-db203c89c5ef/articles/11fa6b46-7e35-4f55-a556-7101526cf456)
 
 ### 무이네(9Day, 10Day)
-
-슬리핑 버스로 이동?
 
 #### 숙소
 
@@ -141,9 +141,7 @@ comments: true
 
 #### 맛집
 
-[참고 블로그](https://m.blog.naver.com/PostView.nhn?blogId=khjins5918&logNo=221189234573&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
-
 - [신밧드 케밥](https://www.google.com/maps/place/%EC%8B%A0%EB%B0%A7%EB%93%9C%EC%BC%80%EB%B0%A5/@10.9510985,108.2477092,15z/data=!4m8!1m2!2m1!1zMjMzIE5ndXnhu4VuIMSQw6xuaCBDaGnhu4N1LCBQaMaw4budbmcgSMOgbSBUaeG6v24sIFRow6BuaCBwaOG7kSBQaGFuIFRoaeG6v3QsIELDrG5oIFRodeG6rW4sIOuyoO2KuOuCqA!3m4!1s0x317685541cd0bd0f:0x930cd95bf83738ca!8m2!3d10.955338!4d108.232605)
 - [힐스 스모케리아](https://www.google.com/maps/place/Hill+Smokeria/@10.9419708,108.2027242,14.42z/data=!4m5!3m4!1s0x31768524edf60e1b:0x6eab8b981f3f0f64!8m2!3d10.9480013!4d108.1999613)
-- 보케 거리에 많이 있다고 함
+- [무이네 직접 가본 곳](https://m.blog.naver.com/PostView.nhn?blogId=khjins5918&logNo=221189234573&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 
