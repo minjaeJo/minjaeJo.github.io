@@ -39,7 +39,7 @@ PyQt는 임베디드 개발자에게 인기많은 C++ 개발 프레임워크인 
 
 ### 기본 프로젝트 구조
 이번 프로젝트는 MVC패턴을 지니고 있어서 개별적으로 역할을 담당할 수 있게 설계할 예정이다.
-system_trading_01
+<img style="width:500px" src="https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/system_trading_01.png">
 
 ### Snap01: login
 main.py에서 viewController와 dataModels을 연결하며 앱 실행을 관여한다.
@@ -65,7 +65,14 @@ if __name__ == "__main__":
     app.exec_()
  ```
 
-viewController.py는 QtDesigner에서 제작한 UI를 불러온 후, 윈도우 레지스터에 등록된 `KHOPENAPI.KHOpenAPICtrl.1` 연결한다. 그리고 KOA studio에 등록된 로그인 관련 API중 로그인 상태와 로그인 이후 받아오는 유저 정보까지 연결하였다.
+viewController.py는 QtDesigner에서 제작한 UI를 불러온 후, 윈도우 레지스터에 등록된 `KHOPENAPI.KHOpenAPICtrl.1` 연결한다.
+
+<img style="width:500px" src="https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/system_trading_02.png"><br/>
+
+그리고 KOA studio에 등록된 로그인 관련 API중 로그인 상태와 로그인 이후 받아오는 유저 정보까지 연결하였다. API 문서는 KOA Stdio에서 확인 할 수 있다.
+
+<img style="width:500px" src="https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/system_trading_03.png"><br/>
+
 
 ```python
 import dataModels as dm
