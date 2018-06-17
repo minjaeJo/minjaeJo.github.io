@@ -2,7 +2,7 @@
 layout: post
 title: "궁금한 웹 해킹, 8가지만 알아보자! (0)환경 설정"
 date: 2018-05-28
-tags: [HACKING,웹해킹,모의해킹]
+tags: [모의해킹]
 excerpt: ""
 comments: true
 ---

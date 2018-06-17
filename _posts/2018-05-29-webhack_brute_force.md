@@ -2,7 +2,7 @@
 layout: post
 title: "궁금한 웹 해킹, 8가지만 알아보자! (1)브루트 포스"
 date: 2018-05-29
-tags: [HACKING,웹해킹,모의해킹]
+tags: [모의해킹]
 excerpt: ""
 comments: true
 ---
@@ -88,50 +88,10 @@ DVWA의 보안 단계를 row 단계로 내려 놓는다.
 
 DVWA의 브루트 포스 공격에 대한 php 코드이다. 주석부분에 각 레벨 대응 방법을 설명해놓았다.
 
-```php
-<?php
+Medium 레벨에서는 sleep(2)를 준다. 로그인 실패를 했을 경우, 시간을 지연시키므로 브루트포스의 최대 시간을 늘리는 법이다. 하지만, 이 방법도 해커가 로그인 실패 지연 시간이 늘어나는 부분을 알게 된다면 충분히 우회할 수 있다.
 
-if( isset( $_GET[ 'Login' ] ) ) {
-    // Get username
-    $user = $_GET[ 'username' ];
+High 레벨에서는 sleep(rand(0,3))를 준다. 로그인 지연 시간을 랜덤으로 주면서 알 수 없도록 한다.
 
-    // Get password
-    $pass = $_GET[ 'password' ];
-    $pass = md5( $pass );
+Impossible 레벨에서는 여러번 로그인 실패시, 15분동안 계정을 막아버린다. 이렇게 되면 도저히 브루트 포스 공격을 쓰지 못한다. 물론 해커가 이를 노려 모든 계정을 막아버릴 수 있다. 이외에도 그림에 있는 숫자를 입력하는 캡챠를 쓰거나 특수문자를 포함 길게 늘려써서 막을 수 있다.
 
-    // Check the database
-    $query  = "SELECT * FROM `users` WHERE user = '$user' AND password = '$pass';";
-    $result = mysqli_query($GLOBALS["___mysqli_ston"],  $query ) or die( '<pre>' . ((is_object($GLOBALS["___mysqli_ston"])) ? mysqli_error($GLOBALS["___mysqli_ston"]) : (($___mysqli_res = mysqli_connect_error()) ? $___mysqli_res : false)) . '</pre>' );
-
-    if( $result && mysqli_num_rows( $result ) == 1 ) {
-        // Get users details
-        $row    = mysqli_fetch_assoc( $result );
-        $avatar = $row["avatar"];
-
-        // Login successful
-        echo "<p>Welcome to the password protected area {$user}</p>";
-        echo "<img src=\"{$avatar}\" />";
-    }
-    else {
-        // Login failed
-
-        /* Medium 레벨에서는 sleep(2)를 준다.
-        *  로그인 실패를 했을 경우, 시간을 지연시키므로 브루트포스의 최대 시간을 늘리는 법이다.
-        *  하지만, 이 방법도 해커가 로그인 실패 지연 시간이 늘어나는 부분을 알게 된다면 충분히 우회할 수 있다.
-        *
-        *  High 레벨에서는 sleep(rand(0,3))를 준다. 로그인 지연 시간을 랜덤으로 주면서 알 수 없도록 한다.
-        *
-        *  Impossible 레벨에서는 여러번 로그인 실패시, 15분동안 계정을 막아버린다.
-        *  이렇게 되면 도저히 브루트 포스 공격을 쓰지 못한다. 물론 해커가 이를 노려 모든 계정을 막아버릴 수 있다.
-        *  이외에도 그림에 있는 숫자를 입력하는 캡챠를 쓰거나 특수문자를 포함 길게 늘려써서 막을 수 있다.
-        */
-
-        echo "<pre><br />Username and/or password incorrect.</pre>";
-    }
-
-    ((is_null($___mysqli_res = mysqli_close($GLOBALS["___mysqli_ston"]))) ? false : $___mysqli_res);
-}
-
-?>
-```
 
