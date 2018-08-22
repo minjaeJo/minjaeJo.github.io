@@ -67,11 +67,11 @@ if __name__ == "__main__":
 
 viewController.py는 QtDesigner에서 제작한 UI를 불러온 후, 윈도우 레지스터에 등록된 `KHOPENAPI.KHOpenAPICtrl.1` 연결한다.
 
-<img style="width:500px" src="https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/system_trading_02.PNG"><br/>
+<img style="width:500px" src="https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/system_trading_03.PNG"><br/>
 
 그리고 KOA studio에 등록된 로그인 관련 API중 로그인 상태와 로그인 이후 받아오는 유저 정보까지 연결하였다. API 문서는 KOA Stdio에서 확인 할 수 있다.
 
-<img style="width:500px" src="https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/system_trading_03.PNG"><br/>
+<img style="width:500px" src="https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/system_trading_02.PNG"><br/>
 
 
 ```python
