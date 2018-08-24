@@ -25,10 +25,10 @@ comments: false
 	* LG 2017 SignageCare Maintenance Service - Front-End Development(AngularJS)
     * LG 2018 SignageCare Renewal Service - Front-End Development(VueJS)
 
+* **Software Developer @ SmartJack, 18.07.24 ~ current**
+<img class="image_logo" src='https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/smartjack.png'>
 * **Freelancer @ 2+ Companies**
-	* Developed iOS Application, Drowsiness driving service
-	* Developed React-Native Application, Government Official Exam Preparation Quiz App
-
+<img class='image_logo' src='https://www.theteams.kr/includes/uploads/company_profile/706daf75ea475c99918da2d7b7a7ff6f20171009144405_nail.jpg'>
 ## Social activity
 * **Korea Robot Science Industry Promotion Agency @ 2016.06 ~ 2016.09**
 <img class='image_logo' src='https://pbs.twimg.com/profile_images/1158493297/phpfXjzYK_400x400'>
@@ -44,7 +44,7 @@ comments: false
         * [CodeLAB] Implementation of recommendation system using Azure ML, 2017.11
         * [CodeLAB] Login service using Cognitive Service Face API & Azure Function, 2018.05
 
-* **SBA Coding Starter Education @ 2018.05 ~ current**
+* **SBA Coding Starter Education @ 2018.05 ~ 2018.08**
 <img class='image_logo squard' style="width: 30px;" src='http://img.etnews.com/news/article/2017/08/31/cms_temp_article_31154246322352.jpg'>
     * Coding starter teaching assistant [HTML,CSS,JS]
 
@@ -57,7 +57,9 @@ comments: false
   * Hongik University Transportation System Design Camp - Encouragement award (Hongik University), 2015.12
   * Design Thinking Hackathon - gold award (SK Telecom & korea University), 2017.01
 * **About extra**
-  * UOS Start-up Idea Competition - 2nd prize (Unisversity of Seoul Business Administration), 2015.10
+  * UOS Start-up Idea Competition - 2nd prize (Unisversity of Seoul), 2015.10
+  * UOS Smart-creation-center Hackathon - 2nd prize (Unisversity of Seoul), 2018.04
+  * UOS Start-up presentation - $5000 (Unisversity of Seoul), 2015.08
 
 ## Skills
 
@@ -74,10 +76,10 @@ comments: false
     <img class='image_logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png'>
     <img class='image_logo' src='https://kr.vuejs.org/images/logo.png'>
 * **Server Framework**
-	* <img class='image_logo' src='http://multiwebsoft.com/wp-content/uploads/2018/04/nodejslogo.png'>
+	* <img class='image_logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/300px-Node.js_logo.svg.png'>
     <img class='image_logo' src='http://cfile7.uf.tistory.com/image/263190415875856125A164'>
 * **Database**
-    * <img class='image_logo' src='https://d1eq8vvyuam4eq.cloudfront.net/mysql_logo.svg?ver=1513931952'>
+    * <img class='image_logo' src='https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png'>
     <img class='image_logo squard' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsCm1wqFtbA99laL_KuNRem3AqMoW-Jri9Y1fsVS0RfYR7Aoh8g'>
 
 * **Mobile**
@@ -91,7 +93,7 @@ comments: false
 <img class='image_logo squard' src='https://avatars2.githubusercontent.com/u/29157988?s=400&u=5c02698a5bad03dda6f2d3178199038c4651ae77&v=4'>
 > Cafe information application that can search category for people who want to find a cafe that suits their personal taste
 <img class='image_logo ' src='https://cms-assets.tutsplus.com/uploads/users/769/posts/29355/preview_image/ios.jpg'>
-<img class='image_logo' src='http://multiwebsoft.com/wp-content/uploads/2018/04/nodejslogo.png'>
+<img class='image_logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/300px-Node.js_logo.svg.png'>
 <img class='image_logo squard' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsCm1wqFtbA99laL_KuNRem3AqMoW-Jri9Y1fsVS0RfYR7Aoh8g'>
 
 <img class='image_project' src='https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/project/machum_cafe/1.jpg'>
@@ -105,3 +107,6 @@ comments: false
 
 
 <img class='image_project' src='https://raw.githubusercontent.com/minjaeJo/minjaeJo.github.io/master/assets/img/project/kakoho/image.png'>
+
+* **Archiving @ 18.04.05 ~ 18.09.12**
+Comming Soon
